@@ -1,0 +1,10 @@
+C:\Users\gusev\source\repos\KR\KR\bin\Debug\KR.exe.config
+C:\Users\gusev\source\repos\KR\KR\bin\Debug\KR.exe
+C:\Users\gusev\source\repos\KR\KR\bin\Debug\KR.pdb
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.csproj.AssemblyReference.cache
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.Form1.resources
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.Properties.Resources.resources
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.csproj.GenerateResource.cache
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.csproj.CoreCompileInputs.cache
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.exe
+C:\Users\gusev\source\repos\KR\KR\obj\Debug\KR.pdb
